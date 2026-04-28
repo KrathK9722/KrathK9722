@@ -1,0 +1,9 @@
+name: My Git Workflow
+on: [push] # Trigger on every push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4 # Uses the Git checkout plugin
+      - name: Run a script
+        run: echo "Hello World"
