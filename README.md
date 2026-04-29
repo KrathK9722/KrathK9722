@@ -1,6 +1,6 @@
 ## Hi my name is Arthur Kochan but you can call me Krath
 
-Contact me at my social.
+Contact me at my socials.
 
 <!--
 **KrathK9722/KrathK9722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
