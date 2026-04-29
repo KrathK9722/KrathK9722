@@ -1,5 +1,6 @@
-## Hi there 👋
-<img width="28" height="28" alt="imagem" src="https://github.com/user-attachments/assets/3eb15639-d681-46aa-b249-887a7b71aeea" />
+## Hi my name is Arthur Kochan but you can call me Krath
+
+Contact me at my social.
 
 <!--
 **KrathK9722/KrathK9722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
