@@ -1,4 +1,4 @@
-## Hi my name is Arthur Kochan
+## Hi I'm Arthur 
 
 Contact me at my socials.
 
