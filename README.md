@@ -1,4 +1,4 @@
-## Hi my name is Arthur Kochan but you can call me Krath
+## Hi my name is Arthur Kochan
 
 Contact me at my socials.
 
