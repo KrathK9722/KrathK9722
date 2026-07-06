@@ -111,9 +111,6 @@ Interesse em desenvolvimento de jogos, criação de mods para Minecraft, program
 ![Pixel Art](https://img.shields.io/badge/Pixel_Art-FF6F61?style=for-the-badge)
 
 </div>
-
-> 🧱 **Exemplo de fluxo de um mod meu:** ideia → protótipo em MCreator → arte em Aseprite/Blockbench → testes no jogo → trilha sonora própria no BandLab.
-
 ---
 
 ## 🛠️ Ferramentas do dia a dia
