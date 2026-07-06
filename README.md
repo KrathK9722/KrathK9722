@@ -162,11 +162,7 @@ Além da programação, também crio músicas para meus mods e jogos, unindo des
 
 ## Objetivo
 
-Continuar evoluindo como desenvolvedor, criando projetos que misturem programação, jogos, dados, arte e música.
-
-Meu foco é transformar ideias criativas em sistemas, jogos, mods e experiências digitais.
-
-**Ideia → Código → Arte → Experiência**
+Continuar evoluindo como desenvolvedor, criando projetos que misturem programação e arte.
 
 ---
 
