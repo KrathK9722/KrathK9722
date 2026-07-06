@@ -3,20 +3,18 @@
 
 Contact me at my socials.
 
-<!--
-**KrathK9722/KrathK9722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Linguagens e Tecnologias que conheço
 
-Here are some ideas to get you started:
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,js" />
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronoun![Uploading imagem.png…]()
-s: ...
-- ⚡ Fun fact: ...
--->
-WHAT I KNOW:
-<img width="447" height="447" alt="html" src="https://github.com/user-attachments/assets/bc997bec-490a-42b3-bbdb-7961330d484f" /> <img width="1280" height="1484" alt="Jupyter_logo svg" src="https://github.com/user-attachments/assets/b53cfc2f-5efe-459d-8817-c2156b57b123" /> <img width="1280" height="1280" alt="Python-logo-notext svg" src="https://github.com/user-attachments/assets/175655fc-11c7-40b3-81ac-2487d1ee8aba" /> <img width="400" height="400" alt="c" src="https://github.com/user-attachments/assets/1f0d30eb-84df-4d7d-bb80-06534eaf78a4" /> <img width="1280" height="1441" alt="ISO_C++_Logo svg" src="https://github.com/user-attachments/assets/587b2469-0781-4235-895e-cb5ee08c302c" />
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C- A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
