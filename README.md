@@ -151,9 +151,13 @@ Além da programação, também crio músicas para meus mods e jogos, unindo des
 
 <img src="https://raw.githubusercontent.com/KrathK9722/KrathK9722/output/github-metrics.svg" width="100%" />
 
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KrathK9722&theme=tokyo-night&hide_border=true" width="100%" />
+
 </div>
 
-> ⚙️ Esse card é gerado por um workflow do GitHub Actions (não depende do servidor externo que estava quebrado). Configuração no passo a passo abaixo.
+> ⚙️ O card de cima é gerado por um workflow do GitHub Actions (substitui os 3 que estavam quebrados). O gráfico de atividade de baixo já funcionava normalmente, então mantive ele como estava.
 
 ---
 
@@ -179,7 +183,8 @@ Este README usa serviços externos gratuitos que geram imagens dinamicamente. Ca
 | **Skill Icons** (`skillicons.dev`) | Não. Para add/remover ícones, edite a lista depois de `?i=` (ex: `i=python,c,godot`). |
 | **Shields.io** (badges coloridos) | Não. Não precisam de conta. |
 | **Readme Typing SVG** | Não. Para mudar as frases, edite o parâmetro `lines=` na URL (separadas por `;`). |
-| **GitHub Readme Stats / Streak / Activity Graph** | **Substituídos** — o serviço gratuito deles estava fora do ar de forma persistente. Agora usam um card único gerado por GitHub Actions, direto no seu repositório. Passo a passo abaixo. |
+| **GitHub Readme Stats / Streak Stats** | **Substituídos** — o serviço gratuito deles estava fora do ar de forma persistente. Agora usam um card único gerado por GitHub Actions, direto no seu repositório. Passo a passo abaixo. |
+| **Activity Graph** | Não precisa de nada, esse já funcionava normal e continua igual. |
 | **Komarev Visitor Badge** | Não, já conta visualizações sozinho. |
 | **Snake (cobrinha de contribuições)** | Precisa de um workflow do GitHub Actions no repositório `KrathK9722/KrathK9722`. Passo a passo abaixo. |
 
