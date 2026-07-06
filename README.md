@@ -1,3 +1,4 @@
+
 ## Hi I'm Arthur 
 
 Contact me at my socials.
@@ -18,3 +19,4 @@ s: ...
 - ⚡ Fun fact: ...
 -->
 WHAT I KNOW:
+<img width="447" height="447" alt="html" src="https://github.com/user-attachments/assets/bc997bec-490a-42b3-bbdb-7961330d484f" /> <img width="1280" height="1484" alt="Jupyter_logo svg" src="https://github.com/user-attachments/assets/b53cfc2f-5efe-459d-8817-c2156b57b123" /> <img width="1280" height="1280" alt="Python-logo-notext svg" src="https://github.com/user-attachments/assets/175655fc-11c7-40b3-81ac-2487d1ee8aba" /> <img width="400" height="400" alt="c" src="https://github.com/user-attachments/assets/1f0d30eb-84df-4d7d-bb80-06534eaf78a4" /> <img width="1280" height="1441" alt="ISO_C++_Logo svg" src="https://github.com/user-attachments/assets/587b2469-0781-4235-895e-cb5ee08c302c" />
