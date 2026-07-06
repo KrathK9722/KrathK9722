@@ -112,7 +112,6 @@ Interesse em desenvolvimento de jogos, criação de mods para Minecraft, program
 
 </div>
 ---
-
 ## 🛠️ Ferramentas do dia a dia
 
 <div align="center">
