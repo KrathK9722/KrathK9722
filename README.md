@@ -1,11 +1,33 @@
+# Olá, eu sou o Arthur Kochan
 
-## Hi I'm Arthur 
+Tenho 16 anos e sou estudante do curso Técnico em Desenvolvimento de Sistemas no SENAI.
 
-Contact me at my socials.
+Atualmente estou construindo minha base em programação, análise de dados, desenvolvimento de jogos, criação de mods, pixel art, modelagem 3D e produção musical para projetos criativos.
 
-## Linguagens e Tecnologias que conheço
+Minha área de interesse está na união entre tecnologia e criatividade: código, dados, jogos, mods, arte e música.
 
-### Linguagens
+---
+
+## Formação
+
+- Técnico em Desenvolvimento de Sistemas — SENAI  
+- Carga estimada ao final do curso: aproximadamente 352 horas  
+- Aulas 5 dias por semana, 4 horas por dia  
+- Formação complementar em programação, dados, IA, mods, pixel art e modelagem
+
+---
+
+## Cursos Complementares
+
+- Introdução ao Desenvolvimento de Sistemas — 20h
+- Introdução à Análise de Dados — 20h
+- Introdução ao Desenvolvimento de Inteligência Artificial — 20h
+- Lógica de Programação — 20h
+- Cursos complementares na Udemy sobre MCreator, Pixel Art e Modelagem
+
+---
+
+## Linguagens
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,html,js,godot" />
@@ -22,7 +44,9 @@ Contact me at my socials.
 
 ---
 
-### Análise de Dados
+## Análise de Dados
+
+Tenho conhecimentos introdutórios em análise de dados utilizando Python, notebooks e bibliotecas de visualização.
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
@@ -31,29 +55,72 @@ Contact me at my socials.
 
 ---
 
-### Game Dev, Mods e 3D
+## Game Dev, Mods e Arte Digital
+
+Tenho interesse em desenvolvimento de jogos, criação de mods para Minecraft, programação visual, pixel art e modelagem para projetos criativos.
 
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![MCreator](https://img.shields.io/badge/MCreator-3C873A?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Minecraft Modding](https://img.shields.io/badge/Minecraft_Modding-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
-![Blockbench](https://img.shields.io/badge/Blockbench-1E93D1?style=for-the-badge&logo=blockbench&logoColor=white)
-
----
-
-### Arte e Design
-
+![Blockbench](https://img.shields.io/badge/Blockbench-1E93D1?style=for-the-badge)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge)
 ![Pixel Art](https://img.shields.io/badge/Pixel_Art-FF6F61?style=for-the-badge)
-![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
 
 ---
 
-### Ferramentas
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=github,vscode" />
-</div>
-
-<br>
+## Ferramentas
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Google Forms](https://img.shields.io/badge/Google_Forms-7248B9?style=for-the-badge&logo=googleforms&logoColor=white)
+
+---
+
+## Áreas de Interesse
+
+- Desenvolvimento de sistemas
+- Programação
+- Análise de dados
+- Inteligência artificial
+- Desenvolvimento de jogos
+- Criação de mods para Minecraft
+- Pixel art
+- Modelagem 3D
+- Produção musical para jogos e mods
+
+---
+
+## Projetos Criativos
+
+Além da programação, também crio músicas para meus mods e jogos, unindo desenvolvimento, arte e trilha sonora em projetos próprios.
+
+[![Meus Links](https://img.shields.io/badge/Meus_Links-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://guns.lol/krathk)
+[![BandLab](https://img.shields.io/badge/BandLab-FF5500?style=for-the-badge&logo=bandlab&logoColor=white)](https://www.bandlab.com/krathk9722)
+[![YouTube](https://img.shields.io/badge/YouTube-Em_breve-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@krathk9722)
+
+---
+
+## Atualmente estudando
+
+- Desenvolvimento de sistemas
+- Python
+- C e C++
+- JavaScript
+- HTML
+- GDScript
+- Análise de dados com Python
+- Desenvolvimento de jogos com Godot
+- Criação de mods com MCreator
+- Pixel art e modelagem para jogos
+
+---
+
+## Objetivo
+
+Continuar evoluindo como desenvolvedor, criando projetos que misturem programação, jogos, dados, arte e música.
+
+Meu foco é transformar ideias criativas em sistemas, jogos, mods e experiências digitais.
