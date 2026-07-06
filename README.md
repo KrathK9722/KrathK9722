@@ -13,7 +13,7 @@ Minha área de interesse está na união entre tecnologia e criatividade: códig
 - Técnico em Desenvolvimento de Sistemas — SENAI  
 - Carga estimada ao final do curso: aproximadamente 352 horas  
 - Aulas 5 dias por semana, 4 horas por dia  
-- Formação complementar em programação, dados, IA, mods, pixel art e modelagem
+- Formação complementar em programação, dados, IA.
 
 ---
 
@@ -104,23 +104,8 @@ Além da programação, também crio músicas para meus mods e jogos, unindo des
 
 ---
 
-## Atualmente estudando
-
-- Desenvolvimento de sistemas
-- Python
-- C e C++
-- JavaScript
-- HTML
-- GDScript
-- Análise de dados com Python
-- Desenvolvimento de jogos com Godot
-- Criação de mods com MCreator
-- Pixel art e modelagem para jogos
-
----
-
 ## Objetivo
 
-Continuar evoluindo como desenvolvedor, criando projetos que misturem programação, jogos, dados, arte e música.
+Continuar evoluindo como desenvolvedor, criando projetos que misturem programação e arte.
 
 Meu foco é transformar ideias criativas em sistemas, jogos, mods e experiências digitais.
