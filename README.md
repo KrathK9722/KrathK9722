@@ -149,15 +149,18 @@ Além da programação, também crio músicas para meus mods e jogos, unindo des
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KrathK9722/KrathK9722/output/github-metrics.svg" width="100%" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KrathK9722&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrathK9722&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br><br>
+<br>
+
+<img src="https://streak-stats.demolab.com?user=KrathK9722&theme=tokyonight&hide_border=true" />
+
+<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrathK9722&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
-
-> ⚙️ O card de cima é gerado por um workflow do GitHub Actions (substitui os 3 que estavam quebrados). O gráfico de atividade de baixo já funcionava normalmente, então mantive ele como estava.
 
 ---
 
@@ -183,47 +186,9 @@ Este README usa serviços externos gratuitos que geram imagens dinamicamente. Ca
 | **Skill Icons** (`skillicons.dev`) | Não. Para add/remover ícones, edite a lista depois de `?i=` (ex: `i=python,c,godot`). |
 | **Shields.io** (badges coloridos) | Não. Não precisam de conta. |
 | **Readme Typing SVG** | Não. Para mudar as frases, edite o parâmetro `lines=` na URL (separadas por `;`). |
-| **GitHub Readme Stats / Streak Stats** | **Substituídos** — o serviço gratuito deles estava fora do ar de forma persistente. Agora usam um card único gerado por GitHub Actions, direto no seu repositório. Passo a passo abaixo. |
-| **Activity Graph** | Não precisa de nada, esse já funcionava normal e continua igual. |
+| **GitHub Readme Stats / Streak Stats / Activity Graph** | São imagens de um serviço gratuito externo. Às vezes ficam fora do ar por instabilidade/limite de requisições — nesse caso, espere um pouco e recarregue a página. |
 | **Komarev Visitor Badge** | Não, já conta visualizações sozinho. |
 | **Snake (cobrinha de contribuições)** | Precisa de um workflow do GitHub Actions no repositório `KrathK9722/KrathK9722`. Passo a passo abaixo. |
-
-### Passo a passo do card de métricas (substitui os 3 que estavam quebrados)
-
-1. No mesmo repositório `KrathK9722/KrathK9722` (o especial, com nome igual ao seu usuário), crie o arquivo `.github/workflows/metrics.yml` com o conteúdo abaixo:
-
-```yaml
-name: generate metrics
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: KrathK9722
-          template: classic
-          base: header, activity, community, repositories
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          committer_branch: output
-```
-
-2. Vá em **Settings → Actions → General** e garanta "Workflow permissions" com **Read and write permissions** marcado (mesmo ajuste do passo do Snake).
-3. Rode o workflow manualmente uma vez (aba **Actions → generate metrics → Run workflow**).
-4. Ele cria/atualiza o arquivo `github-metrics.svg` na branch `output` a cada 12 horas — a mesma branch que a cobrinha já usa.
 
 ### Passo a passo do Snake
 
