@@ -149,84 +149,19 @@ Além da programação, também crio músicas para meus mods e jogos, unindo des
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KrathK9722&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrathK9722&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=KrathK9722&theme=tokyonight&hide_border=true" />
-
-<br>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrathK9722&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-## 🐍 Contribuição animada
+## 🐍 Contribuições no GITHUB
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/KrathK9722/KrathK9722/output/github-contribution-grid-snake.svg" width="100%" />
 
 </div>
-
-> 💡 Essa "cobrinha" comendo seus commits precisa de um workflow configurado — veja a seção **"Como fazer os widgets funcionarem"** logo abaixo.
-
----
-
-## ⚙️ Como fazer os widgets funcionarem
-
-Este README usa serviços externos gratuitos que geram imagens dinamicamente. Cada um precisa de um ajuste rápido:
-
-| Widget | Precisa de configuração? |
-|:---|:---|
-| **Capsule Render** (banners ondulados) | Não. Só troque o texto depois de `text=` na URL se quiser mudar o nome. |
-| **Skill Icons** (`skillicons.dev`) | Não. Para add/remover ícones, edite a lista depois de `?i=` (ex: `i=python,c,godot`). |
-| **Shields.io** (badges coloridos) | Não. Não precisam de conta. |
-| **Readme Typing SVG** | Não. Para mudar as frases, edite o parâmetro `lines=` na URL (separadas por `;`). |
-| **GitHub Readme Stats / Streak Stats / Activity Graph** | São imagens de um serviço gratuito externo. Às vezes ficam fora do ar por instabilidade/limite de requisições — nesse caso, espere um pouco e recarregue a página. |
-| **Komarev Visitor Badge** | Não, já conta visualizações sozinho. |
-| **Snake (cobrinha de contribuições)** | Precisa de um workflow do GitHub Actions no repositório `KrathK9722/KrathK9722`. Passo a passo abaixo. |
-
-### Passo a passo do Snake
-
-1. No GitHub, crie (se ainda não existir) um repositório chamado exatamente `KrathK9722` (mesmo nome do seu usuário) e público.
-2. Cole este README nele como `README.md`.
-3. Dentro desse repositório, crie o arquivo `.github/workflows/snake.yml` com o conteúdo abaixo:
-
-```yaml
-name: generate snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: KrathK9722
-          outputs: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-4. Vá em **Settings → Actions → General** desse repositório e garanta que "Workflow permissions" está com **Read and write permissions** marcado.
-5. Rode o workflow manualmente uma vez (aba **Actions → generate snake → Run workflow**) para gerar o SVG pela primeira vez.
-6. Depois disso, ele roda sozinho a cada 6 horas e atualiza a cobrinha automaticamente.
 
 ---
 
