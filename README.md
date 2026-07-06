@@ -7,10 +7,10 @@
 <a href="https://guns.lol/krathk">
   <img src="https://img.shields.io/badge/Meus_Links-000000?style=for-the-badge&logo=linktree&logoColor=white" />
 </a>
-<a href="https://www.bandlab.com/krathk9722">
+<a href="https://www.bandlab.com/KrathK9722">
   <img src="https://img.shields.io/badge/BandLab-FF5500?style=for-the-badge&logo=bandlab&logoColor=white" />
 </a>
-<a href="https://www.youtube.com/@krathk9722">
+<a href="https://www.youtube.com/@KrathK9722">
   <img src="https://img.shields.io/badge/YouTube-Em_breve-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
@@ -32,8 +32,6 @@ carga_estimada: ~352 horas
 rotina: 5 dias/semana · 4h/dia
 foco_atual: [Programação, Dados, IA, Games, Mods, Pixel Art, Modelagem 3D, Música]
 ```
-
-Estou construindo minha base em **programação**, **análise de dados**, **desenvolvimento de jogos**, **pixel art**, **modelagem 3D** e **produção musical** para projetos criativos que unem código e arte.
 
 ---
 
@@ -80,16 +78,6 @@ Estou construindo minha base em **programação**, **análise de dados**, **dese
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
 </div>
-
-**Nível atual (auto-avaliação):**
-
-```text
-Python      ████████████░░░░░░░░  60%
-C / C++     ███████░░░░░░░░░░░░░  35%
-HTML/JS     ████████░░░░░░░░░░░░  40%
-GDScript    ██████░░░░░░░░░░░░░░  30%
-Pixel Art   █████████░░░░░░░░░░░  45%
-```
 
 ---
 
@@ -150,8 +138,8 @@ Além da programação, também crio músicas para meus mods e jogos, unindo des
 <div align="center">
 
 [![Meus Links](https://img.shields.io/badge/Meus_Links-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://guns.lol/krathk)
-[![BandLab](https://img.shields.io/badge/BandLab-FF5500?style=for-the-badge&logo=bandlab&logoColor=white)](https://www.bandlab.com/krathk9722)
-[![YouTube](https://img.shields.io/badge/YouTube-Em_breve-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@krathk9722)
+[![BandLab](https://img.shields.io/badge/BandLab-FF5500?style=for-the-badge&logo=bandlab&logoColor=white)](https://www.bandlab.com/KrathK9722)
+[![YouTube](https://img.shields.io/badge/YouTube-Em_breve-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@KrathK9722)
 
 </div>
 
@@ -161,20 +149,18 @@ Além da programação, também crio músicas para meus mods e jogos, unindo des
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=krathk9722&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krathk9722&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KrathK9722&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrathK9722&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=krathk9722&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=KrathK9722&theme=tokyonight&hide_border=true" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krathk9722&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KrathK9722&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
-
-> ⚠️ Troque `krathk9722` pelo seu **usuário real do GitHub** nas imagens acima para os widgets funcionarem corretamente.
 
 ---
 
@@ -182,33 +168,67 @@ Além da programação, também crio músicas para meus mods e jogos, unindo des
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/krathk9722/krathk9722/output/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/KrathK9722/KrathK9722/output/github-contribution-grid-snake.svg" width="100%" />
 
 </div>
 
-> 💡 Essa "cobrinha" comendo seus commits é gerada automaticamente. Veja a seção **"Como ativar"** abaixo para configurar no seu repositório.
+> 💡 Essa "cobrinha" comendo seus commits precisa de um workflow configurado — veja a seção **"Como fazer os widgets funcionarem"** logo abaixo.
 
 ---
 
-## 🗂️ Atualmente estudando
+## ⚙️ Como fazer os widgets funcionarem
 
-<div align="center">
+Este README usa serviços externos gratuitos que geram imagens dinamicamente. Cada um precisa de um ajuste rápido:
 
-| Programação | Dados | Games e Arte |
-|:---:|:---:|:---:|
-| 🐍 Python | 🐼 Pandas | 🎮 Godot |
-| 🇨 C | 📊 Matplotlib | 📜 GDScript |
-| 🧩 C++ | 📓 Jupyter Notebook | 🧱 MCreator |
-| 🌐 HTML | ☁️ Google Colab | 🦴 Blockbench |
-| ⚡ JavaScript | 🤖 IA introdutória | 🖌️ Aseprite |
+| Widget | Precisa de configuração? |
+|:---|:---|
+| **Capsule Render** (banners ondulados) | Não. Só troque o texto depois de `text=` na URL se quiser mudar o nome. |
+| **Skill Icons** (`skillicons.dev`) | Não. Para add/remover ícones, edite a lista depois de `?i=` (ex: `i=python,c,godot`). |
+| **Shields.io** (badges coloridos) | Não. Não precisam de conta. |
+| **Readme Typing SVG** | Não. Para mudar as frases, edite o parâmetro `lines=` na URL (separadas por `;`). |
+| **GitHub Readme Stats** (cards e top linguagens) | Só precisa que `username=KrathK9722` esteja certo (já está) e que seu perfil tenha repositórios públicos com atividade. Erro de "rate limit" é do serviço gratuito, some sozinho depois de recarregar. |
+| **Streak Stats** | Não, mas usa seu histórico de commits públicos — perfis novos aparecem com poucos dados até você commitar mais. |
+| **Activity Graph** | Não, preenche sozinho conforme você usa o GitHub. |
+| **Komarev Visitor Badge** | Não, já conta visualizações sozinho. |
+| **Snake (cobrinha de contribuições)** | **Sim — é o único que dá trabalho.** Precisa de um workflow do GitHub Actions no repositório `KrathK9722/KrathK9722`. Passo a passo abaixo. |
 
-</div>
+### Passo a passo do Snake
 
----
+1. No GitHub, crie (se ainda não existir) um repositório chamado exatamente `KrathK9722` (mesmo nome do seu usuário) e público.
+2. Cole este README nele como `README.md`.
+3. Dentro desse repositório, crie o arquivo `.github/workflows/snake.yml` com o conteúdo abaixo:
 
-## 🎯 Objetivo
+```yaml
+name: generate snake
 
-Continuar evoluindo como desenvolvedor, criando projetos que misturem **programação e arte**.
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: KrathK9722
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+4. Vá em **Settings → Actions → General** desse repositório e garanta que "Workflow permissions" está com **Read and write permissions** marcado.
+5. Rode o workflow manualmente uma vez (aba **Actions → generate snake → Run workflow**) para gerar o SVG pela primeira vez.
+6. Depois disso, ele roda sozinho a cada 6 horas e atualiza a cobrinha automaticamente.
 
 ---
 
@@ -216,7 +236,7 @@ Continuar evoluindo como desenvolvedor, criando projetos que misturem **programa
 
 ### ⭐ Obrigado por visitar meu perfil!
 
-![Visitor Count](https://komarev.com/ghpvc/?username=krathk9722&label=Visualizações&color=2563eb&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=KrathK9722&label=Visualizações&color=2563eb&style=for-the-badge)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:2563eb,100:0f172a&section=footer" />
 
