@@ -6,13 +6,7 @@
 
 Tenho **16 anos** e sou estudante do curso **Técnico em Desenvolvimento de Sistemas no SENAI**.
 
-Atualmente estou construindo minha base em **programação**, **análise de dados**, **desenvolvimento de jogos**, **criação de mods**, **pixel art**, **modelagem 3D** e **produção musical** para projetos criativos.
-
-Minha área de interesse está na união entre:
-
-**Código + Dados + Jogos + Mods + Arte + Música**
-
-Gosto de transformar ideias em experiências digitais, misturando lógica, criatividade e tecnologia.
+Atualmente estou construindo minha base em **programação**, **análise de dados**, **desenvolvimento de jogos**, **pixel art**, **modelagem 3D** e **produção musical** para projetos criativos.
 
 ---
 
@@ -29,7 +23,7 @@ Gosto de transformar ideias em experiências digitais, misturando lógica, criat
   </tr>
   <tr>
     <td><strong>Carga estimada ao final do curso</strong></td>
-    <td>Aproximadamente 1.900 horas</td>
+    <td>Aproximadamente 352 horas</td>
   </tr>
   <tr>
     <td><strong>Rotina de aulas</strong></td>
