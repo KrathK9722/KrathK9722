@@ -149,18 +149,11 @@ Além da programação, também crio músicas para meus mods e jogos, unindo des
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KrathK9722&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrathK9722&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=KrathK9722&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KrathK9722&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://raw.githubusercontent.com/KrathK9722/KrathK9722/output/github-metrics.svg" width="100%" />
 
 </div>
+
+> ⚙️ Esse card é gerado por um workflow do GitHub Actions (não depende do servidor externo que estava quebrado). Configuração no passo a passo abaixo.
 
 ---
 
@@ -186,11 +179,46 @@ Este README usa serviços externos gratuitos que geram imagens dinamicamente. Ca
 | **Skill Icons** (`skillicons.dev`) | Não. Para add/remover ícones, edite a lista depois de `?i=` (ex: `i=python,c,godot`). |
 | **Shields.io** (badges coloridos) | Não. Não precisam de conta. |
 | **Readme Typing SVG** | Não. Para mudar as frases, edite o parâmetro `lines=` na URL (separadas por `;`). |
-| **GitHub Readme Stats** (cards e top linguagens) | O serviço gratuito (`vercel.app`) às vezes fica fora do ar ou bate no limite de requisições da API do GitHub — é um problema conhecido do projeto, não do seu perfil. Se as imagens não carregarem: espere alguns minutos e recarregue, ou force o recarregamento sem cache (Ctrl+Shift+R). Se continuar quebrado por muito tempo, a alternativa mais estável é gerar os cards por GitHub Actions (arquivo estático, sem depender do servidor deles) — posso te passar esse workflow se quiser. |
-| **Streak Stats** | Não, mas usa seu histórico de commits públicos — perfis novos aparecem com poucos dados até você commitar mais. |
-| **Activity Graph** | Não, preenche sozinho conforme você usa o GitHub. |
+| **GitHub Readme Stats / Streak / Activity Graph** | **Substituídos** — o serviço gratuito deles estava fora do ar de forma persistente. Agora usam um card único gerado por GitHub Actions, direto no seu repositório. Passo a passo abaixo. |
 | **Komarev Visitor Badge** | Não, já conta visualizações sozinho. |
-| **Snake (cobrinha de contribuições)** | **Sim — é o único que dá trabalho.** Precisa de um workflow do GitHub Actions no repositório `KrathK9722/KrathK9722`. Passo a passo abaixo. |
+| **Snake (cobrinha de contribuições)** | Precisa de um workflow do GitHub Actions no repositório `KrathK9722/KrathK9722`. Passo a passo abaixo. |
+
+### Passo a passo do card de métricas (substitui os 3 que estavam quebrados)
+
+1. No mesmo repositório `KrathK9722/KrathK9722` (o especial, com nome igual ao seu usuário), crie o arquivo `.github/workflows/metrics.yml` com o conteúdo abaixo:
+
+```yaml
+name: generate metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: KrathK9722
+          template: classic
+          base: header, activity, community, repositories
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          committer_branch: output
+```
+
+2. Vá em **Settings → Actions → General** e garanta "Workflow permissions" com **Read and write permissions** marcado (mesmo ajuste do passo do Snake).
+3. Rode o workflow manualmente uma vez (aba **Actions → generate metrics → Run workflow**).
+4. Ele cria/atualiza o arquivo `github-metrics.svg` na branch `output` a cada 12 horas — a mesma branch que a cobrinha já usa.
 
 ### Passo a passo do Snake
 
