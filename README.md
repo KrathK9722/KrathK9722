@@ -3,7 +3,7 @@
 
 Contact me at my socials.
 
-## Linguagens e Tecnologias que conheço
+## What i Know:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,html,js,github,vscode" />
