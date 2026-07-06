@@ -6,8 +6,6 @@
 
 ### Desenvolvedor em formação | Game Dev | Modding | Dados | Pixel Art | Música
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Tenho+16+anos+e+estudo+Desenvolvimento+de+Sistemas;Gosto+de+programação,+dados,+jogos+e+mods;Crio+projetos+unindo+código,+arte+e+música" />
-
 </div>
 
 ---
@@ -183,17 +181,6 @@ Continuar evoluindo como desenvolvedor, criando projetos que misturem programaç
 Meu foco é transformar ideias criativas em sistemas, jogos, mods e experiências digitais.
 
 **Ideia → Código → Arte → Experiência**
-
----
-
-## Estatísticas do GitHub
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=KrathK9722&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrathK9722&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
