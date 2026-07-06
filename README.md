@@ -149,12 +149,12 @@ Além da programação, também crio músicas para meus mods e jogos, unindo des
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KrathK9722&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrathK9722&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KrathK9722&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrathK9722&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=KrathK9722&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=KrathK9722&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 <br>
 
@@ -186,7 +186,7 @@ Este README usa serviços externos gratuitos que geram imagens dinamicamente. Ca
 | **Skill Icons** (`skillicons.dev`) | Não. Para add/remover ícones, edite a lista depois de `?i=` (ex: `i=python,c,godot`). |
 | **Shields.io** (badges coloridos) | Não. Não precisam de conta. |
 | **Readme Typing SVG** | Não. Para mudar as frases, edite o parâmetro `lines=` na URL (separadas por `;`). |
-| **GitHub Readme Stats** (cards e top linguagens) | Só precisa que `username=KrathK9722` esteja certo (já está) e que seu perfil tenha repositórios públicos com atividade. Erro de "rate limit" é do serviço gratuito, some sozinho depois de recarregar. |
+| **GitHub Readme Stats** (cards e top linguagens) | O serviço gratuito (`vercel.app`) às vezes fica fora do ar ou bate no limite de requisições da API do GitHub — é um problema conhecido do projeto, não do seu perfil. Se as imagens não carregarem: espere alguns minutos e recarregue, ou force o recarregamento sem cache (Ctrl+Shift+R). Se continuar quebrado por muito tempo, a alternativa mais estável é gerar os cards por GitHub Actions (arquivo estático, sem depender do servidor deles) — posso te passar esse workflow se quiser. |
 | **Streak Stats** | Não, mas usa seu histórico de commits públicos — perfis novos aparecem com poucos dados até você commitar mais. |
 | **Activity Graph** | Não, preenche sozinho conforme você usa o GitHub. |
 | **Komarev Visitor Badge** | Não, já conta visualizações sozinho. |
