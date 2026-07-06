@@ -1,13 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:2563eb&text=Arthur%20Kochan&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Desenvolvimento%20de%20Sistemas%20%7C%20Games%20%7C%20Mods%20%7C%20Dados%20%7C%20Arte&descAlignY=58&descSize=16" />
 
-<div align="center">
-
-# Olá, eu sou o Arthur Kochan
-
-### Desenvolvedor em formação | Game Dev | Modding | Dados | Pixel Art | Música
-
-</div>
-
 ---
 
 ## Sobre mim
