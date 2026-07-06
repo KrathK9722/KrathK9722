@@ -111,7 +111,9 @@ Interesse em desenvolvimento de jogos, criação de mods para Minecraft, program
 ![Pixel Art](https://img.shields.io/badge/Pixel_Art-FF6F61?style=for-the-badge)
 
 </div>
+
 ---
+
 ## 🛠️ Ferramentas do dia a dia
 
 <div align="center">
