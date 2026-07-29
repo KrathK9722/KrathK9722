@@ -55,7 +55,7 @@ foco_atual: [Programação, Dados, IA, Games, Mods, Pixel Art, Modelagem 3D, Mú
 | Introdução ao Desenvolvimento de Sistemas | 20h | ✅ |
 | Introdução à Análise de Dados | 20h | ✅ |
 | Introdução ao Desenvolvimento de Inteligência Artificial | 20h | ✅ |
-| Lógica de Programação | 20h | ✅ |
+| Lógica de Programação | 24h | ✅ |
 | MCreator, Pixel Art e Modelagem (Udemy) | — | 🔄 Em andamento |
 
 ---
