@@ -13,10 +13,13 @@
 <a href="https://www.bandlab.com/KrathK9722">
   <img src="https://img.shields.io/badge/BandLab-KrathK9722-FF5500?style=for-the-badge&logo=bandlab&logoColor=white" />
 </a>
+<a href="https://krath.itch.io/">
+  <img src="https://img.shields.io/badge/itch.io-My%20Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
+</a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=650&lines=Systems+Development+Student;Data+Analysis+with+Python;Game+Development+%26+Modding;Building+Projects+Since+2024" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=700&lines=Systems+Development+Student;C+%7C+C%2B%2B+%7C+C%23;WPF+%7C+XAML+%7C+MySQL;Data+Analysis+with+Python;Game+Development+%26+Modding" />
 
 </div>
 
@@ -24,119 +27,177 @@
 
 # 👋 About Me
 
-I'm **Arthur Kochan**, a Systems Development student at **SENAI**, interested in software development, data analysis, game development, and creative technology.
+I'm **Arthur Kochan**, a Systems Development student at **SENAI**, currently developing skills in software development, databases, data analysis, and game development.
 
-I started building programming projects in **2024**, initially exploring programming logic and block-based programming before moving into web development, Python, C/C++, game development, and data analysis.
+I started building programming projects in **2024**, beginning with programming logic and block-based programming. Since then, I have worked with **C, C++, C#, Python, SQL, WPF, MySQL, Godot, GDScript, Arduino, and data analysis tools**.
 
-I enjoy learning by building projects and experimenting with different technologies, especially when software, games, data, and creative work intersect.
+I learn primarily through practical projects, building systems from scratch and experimenting with different technologies.
+
+My interests include **software development, databases, data analysis, game development, Minecraft modding, and creative technology**.
 
 ---
 
 # 💻 Systems Development
 
-### 🎓 Technical Education — SENAI
+### 🎓 Technical Program — SENAI
 
-Currently pursuing a **Technical Degree in Systems Development at SENAI**, with practical training in software development, programming logic, databases, web technologies, and software engineering concepts.
+Currently pursuing a **Technical Program in Systems Development at SENAI**, with practical experience in programming, data structures, databases, desktop applications, hardware interaction, and software development.
+
+## C
+
+C is one of the languages I have studied most extensively.
+
+Through practical projects, I have worked with:
+
+* CRUD systems
+* Structs
+* Nested structs
+* Linked lists
+* Pointers
+* Functions
+* Arrays and vectors
+* Dynamic memory allocation with `malloc`
+* Memory management
+* Modular programming
+* User and data management
+* Console applications
+* Data structures
+* Algorithms
+
+### Projects built with C
+
+**Task Management System**
+
+A Windows console application for managing users and tasks, including task priorities, difficulty levels, dynamic memory allocation, linked lists, and structured data.
+
+**Library Management System**
+
+A CRUD-based system for managing books, users, loans, returns, and reports.
+
+**Other Console Systems**
+
+I have also developed smaller systems such as:
+
+* Cinema seat selection
+* User registration and management
+* Material management
+* Calculators
+* Registration systems
+* Interactive menu-based applications
+
+---
+
+# 🖥️ C# & Desktop Development
+
+I am currently expanding my systems development knowledge with **C# and WPF**.
 
 ### Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,sql,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,mysql,visualstudio&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+<img src="https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
 
 </div>
 
-**Programming & Development**
+Currently studying and practicing:
 
-* Python
-* C
-* C++
-* JavaScript
-* HTML
-* CSS
-* SQL
-* Git & GitHub
-* Object-oriented and procedural programming
-* Data structures and algorithms
-* Web development
-* Database fundamentals
+* C#
+* Classes and objects
+* `public` and `private` access modifiers
+* Functions and methods
+* Object instantiation
+* WPF
+* XAML
+* Desktop interfaces
+* Database integration
+* MySQL
+* CRUD operations
+* Data persistence
+* Separating functionality into different files/classes
+* Communication between applications and databases
 
-### 🛠️ Selected Projects
+I am also working on systems where multiple computers can interact with the same database, allowing applications to send and retrieve shared data.
 
-**Task Manager — C**
+### Development Environment
 
-A Windows console application focused on task and user management, including:
-
-* Dynamic memory allocation
-* Linked lists
-* Structs
-* Modular programming
-* Task priorities and difficulty levels
-* User management
-
-**Library Management System — C**
-
-A CRUD-based library management project covering books, users, loans, returns, and reports.
+* Visual Studio
+* MySQL Workbench
+* XAMPP
+* Git
+* GitHub
 
 ---
 
-# 📊 Data Analysis
+# 🔌 C++ & Arduino
 
-### 🎓 Technical Training — SENAI
+I have also worked with **C++ through Arduino projects**, combining programming with physical hardware.
 
-Alongside Systems Development, I am also studying **Data Analysis with Python at SENAI**, focusing on data manipulation, exploratory analysis, visualization, and analytical thinking.
+Projects and exercises include:
 
-### Technologies & Tools
+* LCD displays
+* Buttons and inputs
+* Voting systems
+* Timers
+* Loops
+* Interactive systems
+* Hardware-controlled applications
+
+This experience helped me understand how programming can interact with physical devices and electronic components.
+
+---
+
+# 📊 Data Analysis with Python
+
+### 🎓 Technical Program — SENAI
+
+I am also studying **Data Analysis with Python at SENAI**, working with real datasets and practical data analysis workflows.
+
+### Technologies
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-
-<br><br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
 
 </div>
 
-**Current knowledge**
+### Experience
 
+* CSV data processing
 * Data cleaning and preprocessing
+* Pandas
+* NumPy
 * Exploratory Data Analysis (EDA)
 * Data visualization
-* Pandas and NumPy
 * Matplotlib
+* Seaborn
 * Jupyter Notebooks
 * Google Colab
-* Basic statistical analysis
-* SQL and relational databases
-
----
-
-# 🌎 English
-
-I'm currently studying **English at KNN**, with a focus on developing communication, reading, writing, and technical English skills.
-
-**Current level:** Advanced / C1
-
-I regularly use English for:
-
-* Programming documentation
-* Technical research
-* GitHub projects
-* Software development
-* Online learning
-* Communication in technology communities
+* Statistical analysis
+* Working with datasets
+* Creating different types of charts
+* Integrating data workflows with Google Drive
+* Organizing analysis projects with GitHub
 
 ---
 
 # 🎮 Game Development
 
-Game development is one of my main areas of interest. I enjoy creating gameplay systems, experimenting with mechanics, and combining programming with visual and audio elements.
+Game development is one of my main areas of interest.
+
+I have experience developing games and gameplay systems using **Godot and GDScript**, as well as earlier projects created with Scratch and MCreator.
 
 ### Godot & GDScript
 
@@ -146,7 +207,7 @@ Game development is one of my main areas of interest. I enjoy creating gameplay 
 
 </div>
 
-Experience and studies involving:
+I have studied and implemented:
 
 * Gameplay programming
 * Player movement
@@ -155,48 +216,59 @@ Experience and studies involving:
 * 2D mechanics
 * Object interaction
 * Animation logic
+* Game states
+* Functions
+* Object instantiation
 * Vector mathematics
 * Mouse-based aiming
-* Game state systems
+* Rotation and positioning systems
+
+I currently have **two game projects in development using Godot**.
 
 ---
 
 # 🧱 Minecraft Modding
 
-I also develop and experiment with **Minecraft mods and addons**, combining programming, game design, modeling, textures, and custom mechanics.
+I have also spent time creating Minecraft mods and addons using **MCreator and Blockbench**.
 
 ### Tools
 
 <div align="center">
 
-![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge\&logo=minecraft\&logoColor=white)
-![MCreator](https://img.shields.io/badge/MCreator-3C873A?style=for-the-badge\&logo=minecraft\&logoColor=white)
-![Blockbench](https://img.shields.io/badge/Blockbench-1E93D1?style=for-the-badge)
-![Pixel Art](https://img.shields.io/badge/Pixel_Art-FF6F61?style=for-the-badge)
+<img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/MCreator-3C873A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Blockbench-1E93D1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pixel_Art-FF6F61?style=for-the-badge" />
 
 </div>
 
-Areas of interest:
+Experience includes:
 
 * Minecraft modding
-* Custom mobs
-* Custom items and mechanics
 * Minecraft Bedrock addons
-* Game design
-* Pixel art
-* 3D modeling
-* Blockbench
 * MCreator
+* Blockbench
+* Custom mobs
+* Custom items
+* Custom mechanics
+* Game design
+* 3D modeling
+* Pixel art
+* Texture creation
+* Visual programming
+* Editing generated code when necessary
+
+I also have a Minecraft mod project currently in development.
 
 ---
 
 # 🧩 Scratch & Early Game Projects
 
-Before moving into traditional programming and game engines, I explored **Scratch and visual programming**.
+Before working with game engines, I explored **Scratch and block-based programming**.
 
-One of my educational game projects was created around **blood donation compatibility**, where the player interacts with a doctor and evaluates donor information.
+One of my projects is an educational game about **blood donation compatibility**, where the player interacts with a doctor and evaluates donor information.
 
-The project is available on **itch.io**:
+The project is available on itch.io.
 
 <div align="center">
 
@@ -210,15 +282,89 @@ The project is available on **itch.io**:
 
 # 🎨 Creative Technology
 
-I also explore creative areas that complement my development work:
+Alongside programming, I work with several creative tools and technologies.
 
-* Pixel Art
-* 3D Modeling
-* Game Art
-* Music Production
-* Soundtracks for games and mods
+### 🎵 Music
 
-I use these skills to create more complete projects rather than focusing exclusively on code.
+I create music and soundtracks for games and creative projects.
+
+### 🎨 Pixel Art
+
+I have experience creating pixel art using **Aseprite**, particularly for game-related projects.
+
+### 🧊 3D Modeling
+
+I create 3D models using **Blockbench**, primarily for Minecraft and game-related projects.
+
+### 🎬 Media & Design
+
+I also have experience with:
+
+* Video editing
+* Canva
+* Microsoft Office
+* Google Workspace
+* Digital content creation
+
+---
+
+# ⚙️ Additional Technical Experience
+
+### CNC Programming
+
+I also have experience with the **programming side of CNC machines**, combining technical instructions with manufacturing processes.
+
+### Productivity & Office Tools
+
+* Microsoft Word
+* Microsoft Excel
+* Microsoft Office
+* Google Workspace
+* Google Drive
+* Google Forms
+* Canva
+
+---
+
+# 🌎 English
+
+I'm currently studying **English at KNN** and use English regularly for technical learning and technology-related content.
+
+**English Level:** C1 — Advanced
+
+I use English for:
+
+* Programming documentation
+* Technical research
+* GitHub
+* Software development
+* Online courses
+* Technical content
+* Technology communities
+
+---
+
+# 🧠 Programming Knowledge
+
+My current programming background includes:
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,mysql,git,github,vscode,visualstudio,godot&theme=dark" />
+
+</div>
+
+| Area                    | Technologies                                 |
+| ----------------------- | -------------------------------------------- |
+| **Systems Development** | C, C#, C++, WPF, XAML                        |
+| **Data**                | Python, Pandas, NumPy, Matplotlib, Seaborn   |
+| **Databases**           | MySQL, SQL, XAMPP, MySQL Workbench           |
+| **Game Development**    | Godot, GDScript, Scratch, MCreator           |
+| **Game Art**            | Aseprite, Blockbench, Pixel Art, 3D Modeling |
+| **Hardware**            | Arduino, LCD, Buttons, C++                   |
+| **Development Tools**   | Git, GitHub, Visual Studio, VS Code          |
+| **Productivity**        | Microsoft Office, Google Workspace, Canva    |
+| **Creative**            | Music Production, Video Editing              |
 
 ---
 
@@ -226,18 +372,20 @@ I use these skills to create more complete projects rather than focusing exclusi
 
 ```text
 Systems Development
-├── Software Development
-├── C / C++
-├── Python
-├── JavaScript
-├── SQL
-└── Web Development
+├── C
+├── C#
+├── C++
+├── WPF
+├── XAML
+├── MySQL
+└── Database Integration
 
 Data Analysis
 ├── Python
 ├── Pandas
 ├── NumPy
-├── Data Visualization
+├── Matplotlib
+├── Seaborn
 └── Exploratory Data Analysis
 
 Game Development
@@ -246,12 +394,11 @@ Game Development
 ├── Game Mechanics
 └── Game Design
 
-Creative Development
-├── Minecraft Modding
+Minecraft Modding
 ├── MCreator
 ├── Blockbench
-├── Pixel Art
-└── Music Production
+├── Custom Mechanics
+└── Minecraft Addons
 ```
 
 ---
