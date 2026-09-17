@@ -260,10 +260,6 @@ Creative Development
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KrathK9722&theme=tokyo-night&hide_border=true" width="100%" />
-
-<br><br>
-
 <img src="https://raw.githubusercontent.com/KrathK9722/KrathK9722/output/github-contribution-grid-snake.svg" width="100%" />
 
 </div>
