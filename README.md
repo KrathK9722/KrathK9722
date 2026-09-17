@@ -1,6 +1,14 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:1e3a8a,100:2563eb&text=Arthur%20Kochan&fontColor=ffffff&fontSize=46&fontAlignY=35&desc=Systems%20Development%20%7C%20Data%20Analysis%20%7C%20Game%20Development&descAlignY=58&descSize=17&animation=fadeIn" />
+<br>
+
+<a href="README.md">
+  <img src="https://img.shields.io/badge/🇺🇸%20English-2563EB?style=for-the-badge" />
+</a>
+<a href="README-PT-BR.md">
+  <img src="https://img.shields.io/badge/🇧🇷%20Português%20(Brasil)-009739?style=for-the-badge" />
+</a>
 
 <br>
 
