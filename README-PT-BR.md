@@ -7,10 +7,10 @@ content = r'''<div align="center">
 <br>
 
 <a href="README.md">
-  <img src="https://img.shields.io/badge/🇺🇸%20English-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🇺🇸%20English README-2563EB?style=for-the-badge" />
 </a>
 <a href="README-PT-BR.md">
-  <img src="https://img.shields.io/badge/🇧🇷%20Portugu%C3%AAs%20(Brasil)-009739?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🇧🇷%20Português%20(Brasil) README -009739?style=for-the-badge" />
 </a>
 
 <br>
