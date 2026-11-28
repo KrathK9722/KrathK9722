@@ -45,6 +45,19 @@ My interests include **software development, databases, data analysis, game deve
 
 ---
 
+# ⭐ Featured Projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**OARE · Mundo SENAI**](https://github.com/KrathK9722/OARE-MUNDO-SENAI) | Self-service kiosk and web portal that builds visit itineraries for SENAI's annual event. Requirements (125 functional, 23 business rules), modeling, PostgreSQL schema and a live prototype. **SENAI's IT team and coordination want to deploy it in 2027.** | Requirements · UML · PostgreSQL · React/TypeScript prototype |
+| [**Gearu**](https://github.com/KrathK9722/WPF-APLICATION-GEARU) | Desktop user-management system with admin levels, BCrypt password hashing, account lockout, audit logs and transactions. | C# · WPF · MariaDB |
+| [**ETL · Government travel data**](https://github.com/KrathK9722/Analise-de-Dados-Projeto-Avaliativo-M1) | ETL pipeline with Raw/Silver/Gold layers over public Transparency Portal data, answering business questions with SQL. | Python · SQL · pandas |
+| [**Library Management System**](https://github.com/KrathK9722/SIMULADOR-GERENCIADOR-BIBLIOTECA) | Team project (4 people); I authored 70 of 88 commits and ran the branch/PR workflow. | C · Git |
+| [**SENAI coursework**](https://github.com/KrathK9722/SENAI-DESENVOLVIMENTO-DE-SISTEMAS) | Course projects, including a 1,000-line task manager in C with linked lists and pointers. | C · C# · Python |
+| [**SCTech Data Analysis**](https://github.com/KrathK9722/SCTECH-ANALISE-DE-DADOS-PYTHON) | Exploratory analyses; **1st place in class T6** (Outstanding Student, Module 01). | Python · pandas · Seaborn |
+
+---
+
 # 💻 Systems Development
 
 ### 🎓 Technical Program — SENAI

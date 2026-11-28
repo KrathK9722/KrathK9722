@@ -47,6 +47,19 @@ Meus interesses incluem **desenvolvimento de software, bancos de dados, análise
 
 ---
 
+# ⭐ Projetos em Destaque
+
+| Projeto | O que é | Tecnologias |
+| --- | --- | --- |
+| [**OARE · Mundo SENAI**](https://github.com/KrathK9722/OARE-MUNDO-SENAI) | Totem e portal web que montam o roteiro de visita do Mundo SENAI. Requisitos (125 funcionais e 23 regras de negócio), modelagem, banco PostgreSQL e protótipo no ar. **A TI e a coordenação do SENAI querem implantar em 2027.** | Requisitos · UML · PostgreSQL · protótipo em React/TypeScript |
+| [**Gearu**](https://github.com/KrathK9722/WPF-APLICATION-GEARU) | Sistema desktop de gerenciamento de usuários com níveis de administrador, senhas com BCrypt, bloqueio de conta, logs de auditoria e transações. | C# · WPF · MariaDB |
+| [**ETL · Viagens do Governo Federal**](https://github.com/KrathK9722/Analise-de-Dados-Projeto-Avaliativo-M1) | Pipeline ETL com camadas Raw, Silver e Gold sobre dados públicos do Portal da Transparência, respondendo perguntas de negócio com SQL. | Python · SQL · pandas |
+| [**Sistema de Biblioteca**](https://github.com/KrathK9722/SIMULADOR-GERENCIADOR-BIBLIOTECA) | Projeto em equipe de 4 pessoas: fiz 70 dos 88 commits e organizei o fluxo de branches e pull requests. | C · Git |
+| [**Curso SENAI**](https://github.com/KrathK9722/SENAI-DESENVOLVIMENTO-DE-SISTEMAS) | Projetos do curso, incluindo um gerenciador de tarefas em C com 1.000 linhas, listas encadeadas e ponteiros. | C · C# · Python |
+| [**SCTech Análise de Dados**](https://github.com/KrathK9722/SCTECH-ANALISE-DE-DADOS-PYTHON) | Análises exploratórias; **1º lugar da turma T6** (Estudante Destaque, Módulo 01). | Python · pandas · Seaborn |
+
+---
+
 # 💻 Desenvolvimento de Sistemas
 
 ### 🎓 Curso Técnico — SENAI
